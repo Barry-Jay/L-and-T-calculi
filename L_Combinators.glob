@@ -1,0 +1,48 @@
+DIGEST bae37b5c111783c5087e2195f6114da1
+FL_Combinators
+R2283:2287 Coq.Arith.Arith <> <> lib
+R2305:2311 General <> <> lib
+ind 2387:2394 <> operator
+constr 2406:2407 <> Un
+constr 2411:2412 <> Pr
+constr 2416:2419 <> Zero
+constr 2423:2426 <> Next
+constr 2430:2433 <> Pred
+constr 2437:2440 <> Plus
+constr 2444:2455 <> Discriminate
+constr 2459:2461 <> Var
+constr 2465:2468 <> Rase
+constr 2472:2474 <> Lam
+R2408:2408 L_Combinators <> operator ind
+R2413:2413 L_Combinators <> operator ind
+R2420:2420 L_Combinators <> operator ind
+R2427:2427 L_Combinators <> operator ind
+R2434:2434 L_Combinators <> operator ind
+R2441:2441 L_Combinators <> operator ind
+R2456:2456 L_Combinators <> operator ind
+R2462:2462 L_Combinators <> operator ind
+R2469:2469 L_Combinators <> operator ind
+R2475:2475 L_Combinators <> operator ind
+ind 2490:2499 <> combinator
+constr 2512:2513 <> Op
+constr 2542:2543 <> Ap
+R2529:2538 L_Combinators <> combinator ind
+R2517:2524 L_Combinators <> operator ind
+R2575:2584 L_Combinators <> combinator ind
+R2561:2570 L_Combinators <> combinator ind
+R2547:2556 L_Combinators <> combinator ind
+prf 2595:2623 <> decidable_combinator_equality
+R2640:2649 L_Combinators <> combinator ind
+R2658:2661 Coq.Init.Logic <> :type_scope:x_'\/'_x not
+R2654:2656 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2653:2653 L_Combinators <> M var
+R2657:2657 L_Combinators <> N var
+R2663:2665 Coq.Init.Logic <> :type_scope:x_'<>'_x not
+R2662:2662 L_Combinators <> M var
+R2666:2666 L_Combinators <> N var
+R2787:2790 Coq.Init.Logic <> :type_scope:x_'\/'_x not
+R2782:2784 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2792:2795 Coq.Init.Logic <> :type_scope:x_'<>'_x not
+R2787:2790 Coq.Init.Logic <> :type_scope:x_'\/'_x not
+R2782:2784 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2792:2795 Coq.Init.Logic <> :type_scope:x_'<>'_x not

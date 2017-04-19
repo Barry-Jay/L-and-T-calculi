@@ -1,0 +1,45 @@
+DIGEST d529ce990a1abc216bfd51fa5dc6b754
+FDLB_Terms
+R2283:2287 Coq.Arith.Arith <> <> lib
+R2305:2311 General <> <> lib
+ind 2373:2378 <> lambda
+constr 2391:2394 <> Unit
+constr 2408:2411 <> Pair
+constr 2443:2445 <> Ref
+constr 2476:2480 <> Raise
+constr 2517:2519 <> Abs
+constr 2551:2553 <> App
+R2399:2404 DLB_Terms <> lambda ind
+R2434:2439 DLB_Terms <> lambda ind
+R2424:2429 DLB_Terms <> lambda ind
+R2414:2419 DLB_Terms <> lambda ind
+R2466:2471 DLB_Terms <> lambda ind
+R2456:2461 DLB_Terms <> lambda ind
+R2449:2451 Coq.Init.Datatypes <> nat ind
+R2507:2512 DLB_Terms <> lambda ind
+R2500:2502 Coq.Init.Datatypes <> nat ind
+R2493:2495 Coq.Init.Datatypes <> nat ind
+R2483:2488 DLB_Terms <> lambda ind
+R2540:2545 DLB_Terms <> lambda ind
+R2530:2535 DLB_Terms <> lambda ind
+R2523:2525 Coq.Init.Datatypes <> nat ind
+R2577:2582 DLB_Terms <> lambda ind
+R2567:2572 DLB_Terms <> lambda ind
+R2557:2562 DLB_Terms <> lambda ind
+prf 2595:2617 <> decidable_term_equality
+R2634:2639 DLB_Terms <> lambda ind
+R2648:2651 Coq.Init.Logic <> :type_scope:x_'\/'_x not
+R2644:2646 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2643:2643 DLB_Terms <> M var
+R2647:2647 DLB_Terms <> N var
+R2653:2655 Coq.Init.Logic <> :type_scope:x_'<>'_x not
+R2652:2652 DLB_Terms <> M var
+R2656:2656 DLB_Terms <> N var
+R2866:2879 General <> decidable_nats thm
+R2866:2879 General <> decidable_nats thm
+R2995:3008 General <> decidable_nats thm
+R2995:3008 General <> decidable_nats thm
+R3028:3041 General <> decidable_nats thm
+R3028:3041 General <> decidable_nats thm
+R3205:3218 General <> decidable_nats thm
+R3205:3218 General <> decidable_nats thm

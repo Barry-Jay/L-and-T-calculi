@@ -1,0 +1,10 @@
+coqc General;
+coqc Test;
+coqc DLB_Terms;
+coqc DLB_Tactics;
+coqc DLB_reduction;
+coqc DLB_Normal;
+coqc L_Combinators;
+coqc L_combinator_tactics;
+coqc L_opred;
+coqc L_translation;
